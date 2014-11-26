@@ -1,0 +1,64 @@
+Package: com.phillipt.aditum
+Version: 0.0.1-37
+Architecture: iphoneos-arm
+Maintainer: Phillip Tennen
+Installed-Size: 592
+Depends: mobilesubstrate, libactivator
+Filename: .///com.phillipt.aditum_0.0.1-37_iphoneos-arm.deb
+Size: 436860
+MD5sum: b24a42ca5957df93641de0f664eb3054
+SHA1: 646166920fad37e0f4a3d2cd236159be895a0020
+SHA256: 157e2bcc3c32acc35949b16f132d90dfa1932c0cc7cb4513f5af246f78634905
+Section: Tweaks
+Description: An awesome Activator listener!
+Author: Phillip Tennen
+Name: Aditum
+
+Package: com.phillipt.asos
+Version: 1.0.0-1-104
+Architecture: iphoneos-arm
+Installed-Size: 384
+Depends: mobilesubstrate, preferenceloader, applist
+Filename: .///com.phillipt.asos_1.0.0-1-104_iphoneos-arm.deb
+Size: 103110
+MD5sum: 9fc84049542b8ac01c08b909c163069d
+SHA1: a6ec6677fe182b9b27019005da7b03588f4544a1
+SHA256: fbfe06f1106e1f28ab0fa201278bb92713de761e76a960e4858888880e4e8901
+Section: Tweaks
+Description: Lock out certain apps
+Author: Phillip Tennen & Cortex
+Icon: Asos.png
+Name: Asos
+
+Package: com.phillipt.ripple
+Version: 0.0.1-276
+Architecture: iphoneos-arm
+Maintainer: Phillip Tennen
+Installed-Size: 440
+Depends: mobilesubstrate
+Filename: .///com.phillipt.ripple_0.0.1-276_iphoneos-arm.deb
+Size: 306138
+MD5sum: a4d45562690629e80bafb7fa9a066fee
+SHA1: d86bce13dd4ba7bf4c3f0b2f9114f490e85dfdad
+SHA256: db97a059a5cb33f999919381daf59efcfb5bf4147c2c132ecd43723d441640b9
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Phillip Tennen
+Name: Ripple
+
+Package: com.phillipt.scenic
+Version: 0.0.1-209
+Architecture: iphoneos-arm
+Maintainer: Phillip Tennen
+Installed-Size: 204
+Depends: mobilesubstrate
+Filename: .///com.phillipt.scenic_0.0.1-209_iphoneos-arm.deb
+Size: 58010
+MD5sum: d77b0fa739a01f66b2f25eaa43122f4e
+SHA1: d01800e81f010e34c8726dff039b3f1449910f50
+SHA256: c260f10b47169d05ce1c3a055d69fbd6c5b8f5af0acc9f55b50124e2b3697beb
+Section: Tweaks
+Description: Easy car media controls
+Author: Phillip Tennen
+Name: Scenic
+
